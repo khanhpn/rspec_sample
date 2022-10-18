@@ -9,3 +9,8 @@
 # Setup database for development and test environment
 - Run `rails db:migrate`
 - Run `rails db:migrate RAILS_ENV=test`
+- Run `rspec spec`
+
+# Note
+- Folder `spec/factories/` <- Put sample data
+- Folder `spec/models/`  <- Write code rspec here
